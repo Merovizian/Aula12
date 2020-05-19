@@ -29,4 +29,4 @@ if idade_mes < 0:
 
 
 
-print(idade_ano,idade_mes,idade_dia)
+print(f"Você tem {idade_ano} anos, {idade_mes} meses e {idade_dia} dias de vida")
