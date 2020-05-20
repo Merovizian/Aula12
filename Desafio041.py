@@ -37,4 +37,4 @@ elif idade_ano < 20 or (idade_ano == 20 and idade_dia == 0 and idade_dia == 0):
 else:
     print("Master!!")
 
-print(f"Você tem {idade_ano} anos, {idade_mes} meses e {idade_dia} dias de vida")
+
