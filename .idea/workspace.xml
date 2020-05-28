@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="397ecc05-fdea-4bb8-946f-bd8b290742f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c5lxaG2qJhruXVJviAv6gOpP2x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Aula12" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Aula12" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Desafio045">
+    <configuration name="Desafio040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aula12" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio040.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aula12" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio042.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio043" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aula12" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio043.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio044" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aula12" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio044.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Aula12" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafio045.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Desafio045" />
+        <item itemvalue="Python.Desafio040" />
+        <item itemvalue="Python.Desafio044" />
+        <item itemvalue="Python.Desafio043" />
+        <item itemvalue="Python.Desafio042" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="397ecc05-fdea-4bb8-946f-bd8b290742f8" name="Default Changelist" comment="" />
+      <created>1589826582239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589826582239</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Versão 1.0">
+      <created>1589831041577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589831041577</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Versão 1.0">
+      <created>1589857535201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589857535201</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Versão 1.0">
+      <created>1589913910161</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589913910161</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Versão 1.0">
+      <created>1589921865426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589921865426</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Versão 1.0">
+      <created>1589991295687</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589991295687</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Versão 2.0">
+      <created>1590007640517</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590007640517</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Versão 1.0" />
+    <MESSAGE value="Versão 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versão 2.0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="239" y="27" width="912" height="873" key="CommitChangelistDialog2" timestamp="1590007640374">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state x="239" y="27" width="912" height="873" key="CommitChangelistDialog2/0.27.1400.873@0.27.1400.873" timestamp="1590007640374" />
+    <state x="100" y="127" width="1200" height="673" key="DiffContextDialog" timestamp="1590072605503">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state x="100" y="127" width="1200" height="673" key="DiffContextDialog/0.27.1400.873@0.27.1400.873" timestamp="1590072605503" />
+    <state width="1377" height="180" key="GridCell.Tab.0.bottom" timestamp="1590007655984">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state width="1377" height="180" key="GridCell.Tab.0.bottom/0.27.1400.873@0.27.1400.873" timestamp="1590007655984" />
+    <state width="1377" height="180" key="GridCell.Tab.0.center" timestamp="1590007655984">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state width="1377" height="180" key="GridCell.Tab.0.center/0.27.1400.873@0.27.1400.873" timestamp="1590007655984" />
+    <state width="1377" height="180" key="GridCell.Tab.0.left" timestamp="1590007655983">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state width="1377" height="180" key="GridCell.Tab.0.left/0.27.1400.873@0.27.1400.873" timestamp="1590007655983" />
+    <state width="1377" height="180" key="GridCell.Tab.0.right" timestamp="1590007655984">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state width="1377" height="180" key="GridCell.Tab.0.right/0.27.1400.873@0.27.1400.873" timestamp="1590007655984" />
+    <state x="389" y="147" width="612" height="640" key="RollbackChangesDialog" timestamp="1589851455316">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state x="389" y="147" width="612" height="640" key="RollbackChangesDialog/0.27.1400.873@0.27.1400.873" timestamp="1589851455316" />
+    <state x="189" y="98" width="1022" height="737" key="SettingsEditor" timestamp="1589987388795">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state x="189" y="98" width="1022" height="737" key="SettingsEditor/0.27.1400.873@0.27.1400.873" timestamp="1589987388795" />
+    <state x="295" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1590007642292">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state x="295" y="199" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1400.873@0.27.1400.873" timestamp="1590007642292" />
+    <state x="363" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1589908049262">
+      <screen x="0" y="27" width="1400" height="873" />
+    </state>
+    <state x="363" y="214" width="672" height="678" key="search.everywhere.popup/0.27.1400.873@0.27.1400.873" timestamp="1589908049262" />
+  </component>
+</project>
